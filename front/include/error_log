@@ -1,0 +1,35 @@
+[29-Sep-2016 10:51:57 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:51:57 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:51:57 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:27 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:27 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:27 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:28 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:38 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:38 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:52:38 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:16 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:16 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:16 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 17:53:16 Asia/Jakarta] PHP Fatal error:  Class 'DB' not found in /home/thofikwi/public_html/libs/con_open.php on line 10
+[29-Sep-2016 10:53:17 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:17 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:17 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 17:53:17 Asia/Jakarta] PHP Fatal error:  Class 'DB' not found in /home/thofikwi/public_html/libs/con_open.php on line 10
+[29-Sep-2016 10:53:18 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:18 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:18 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 17:53:18 Asia/Jakarta] PHP Fatal error:  Class 'DB' not found in /home/thofikwi/public_html/libs/con_open.php on line 10
+[29-Sep-2016 10:53:19 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:19 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:19 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 17:53:19 Asia/Jakarta] PHP Fatal error:  Class 'DB' not found in /home/thofikwi/public_html/libs/con_open.php on line 10
+[29-Sep-2016 10:53:21 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:21 UTC] PHP Warning:  include(SITEPATHlibs/class/DB.php): failed to open stream: No such file or directory in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 10:53:21 UTC] PHP Warning:  include(): Failed opening 'SITEPATHlibs/class/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thofikwi/public_html/libs/con_open.php on line 1
+[29-Sep-2016 17:53:21 Asia/Jakarta] PHP Fatal error:  Class 'DB' not found in /home/thofikwi/public_html/libs/con_open.php on line 10
