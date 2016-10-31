@@ -814,6 +814,20 @@
 				margin-left: 0;
 				margin-right: 0; 
 			}
+			.navbar-collapse {
+				margin-left: -15px;
+				margin-right: 0;
+			}
+		}
+	}
+
+	.secondary-menu-hamburger {
+		.search-mobile {
+			width: 95%;
+			.input-group-addon {
+				background-color: #212121;
+				color: $white;
+			}
 		}
 	}
 

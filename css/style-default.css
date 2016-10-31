@@ -835,6 +835,18 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 0;
     margin-right: 0;
   }
+  .navbar .container .navbar-collapse {
+    margin-left: -15px;
+    margin-right: 0;
+  }
+
+  .secondary-menu-hamburger .search-mobile {
+    width: 95%;
+  }
+  .secondary-menu-hamburger .search-mobile .input-group-addon {
+    background-color: #212121;
+    color: #fff;
+  }
 
   .article-detail .article-primary-head .article-primary-title {
     font-size: 24px;

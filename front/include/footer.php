@@ -20,6 +20,7 @@
         <script type="text/javascript" src="<?=SITEURL;?>js/jquery.min.js"></script>
         <script type="text/javascript" src="<?=SITEURL;?>js/bootstrap.min.js"></script>
         <script type="text/javascript">
+
             (function(){
                 var searchMenu = document.getElementById('search');
                 var layoutSearch = document.getElementById('l-search');
@@ -27,6 +28,7 @@
                 var hamburgerMenu = document.getElementById('hamburger-menu');
                 var layoutSecondaryMenu = document.getElementById('secondary-menu-hamburger');
 
+                // show / hide input search
                 searchMenu.onclick = function() {
                     styleLayoutSearch = layoutSearch.style.display;
                     if(styleLayoutSearch === '' || styleLayoutSearch === 'none') {
@@ -35,6 +37,7 @@
                         layoutSearch.style.display = 'none';
                     }
                 }
+                // end
 
                 hamburgerMenu.onclick = function() {
                     styleLayoutSecondaryMenu = layoutSecondaryMenu.style.display;
@@ -75,7 +78,8 @@
                   // end
                 }
             }());
-
+            
+            // jquery
             $(function(){
                 $('#btn-scroll-top').click(function(e){
                     e.preventDefault();

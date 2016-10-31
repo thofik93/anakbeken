@@ -52,7 +52,7 @@
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" id="search"><i class="fa fa-search"></i></a></li>
+                        <li class="hidden-xs"><a href="#" id="search"><i class="fa fa-search"></i></a></li>
                     </ul>
                 </div><!--.navbar-collapse-->
             </div><!--.container-->
@@ -98,7 +98,12 @@
                         <li><a href="#">Nongkrong</a>
                         <li><a href="#">Photography</a></li>
                         <li><a href="#">Random</a></li>
-                        <li><a href="#" id="search-mobile">Search <i class="fa fa-search"></i></a></li>
+                        <li>
+                            <div class="search-mobile input-group">
+                                <input type="text" class="form-control" placeholder="Search.." aria-describedby="basic-addon2" />
+                                <span class="input-group-addon" id="basic-addon2"><i class="fa fa-search"></i></span>
+                            </div>
+                        </li>
                     </ul>
 
                     <div class="l-search" id="l-search-mobile">
