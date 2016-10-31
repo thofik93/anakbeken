@@ -197,7 +197,6 @@
 			display: inline-block;
 			text-align: center;
 			padding: 7.5px 0;
-			/* background-color: $white; */
 			color: $primary-color;
 		}
 	}
@@ -221,11 +220,6 @@
 		margin: 30px 0;
 		text-align: center;
 		.article-primary-head {
-			.article-primary-img {
-				&:hover {
-					@include filter(grayscale(100%));
-				}
-			}
 			.article-primary-category, .article-primary-tag {
 				font-size: 14px;
 				text-transform: uppercase;
@@ -267,11 +261,6 @@
 	.article-detail {
 		margin-top: 0; 
 		.article-primary-head {
-			.article-primary-img {
-				&:hover {
-					@include filter(none);
-				}
-			}
 			.article-primary-title {
 				margin-top: 0;
 				font-size: 32px;

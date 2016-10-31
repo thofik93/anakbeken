@@ -265,7 +265,6 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   text-align: center;
   padding: 7.5px 0;
-  /* background-color: $white; */
   color: #f44336;
 }
 
@@ -282,10 +281,6 @@ h1, h2, h3, h4, h5, h6 {
 .article-primary {
   margin: 30px 0;
   text-align: center;
-}
-.article-primary .article-primary-head .article-primary-img:hover {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
 }
 .article-primary .article-primary-head .article-primary-category, .article-primary .article-primary-head .article-primary-tag {
   font-size: 14px;
@@ -325,10 +320,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .article-detail {
   margin-top: 0;
-}
-.article-detail .article-primary-head .article-primary-img:hover {
-  -webkit-filter: none;
-  filter: none;
 }
 .article-detail .article-primary-head .article-primary-title {
   margin-top: 0;
