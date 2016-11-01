@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="<?=SITEURL;?>css/font-awesome.min.css">
         <link rel="stylesheet" href="<?=SITEURL;?>css/bootstrap.clearfix.css">
         <link rel="stylesheet" href="<?=SITEURL;?>css/animate.css">
+        <link rel="stylesheet" href="<?=SITEURL;?>css/jquery.fancybox.css">
     </head>
     <body>
         <!--[if lt IE 8]>

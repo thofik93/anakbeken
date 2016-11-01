@@ -19,6 +19,7 @@
 
         <script type="text/javascript" src="<?=SITEURL;?>js/jquery.min.js"></script>
         <script type="text/javascript" src="<?=SITEURL;?>js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="<?=SITEURL;?>js/jquery.fancybox.js"></script>
         <script type="text/javascript">
 
             (function(){
@@ -81,10 +82,15 @@
             
             // jquery
             $(function(){
+                // animate scroll top
                 $('#btn-scroll-top').click(function(e){
                     e.preventDefault();
                     $('html, body').animate({scrollTop:0}, 'slow');
                 });
+                //end
+
+                // buat komik animate lighbox 
+                $('.fancybox').fancybox();
             })
         </script>
     </body>

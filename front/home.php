@@ -295,7 +295,7 @@
                   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <div class="comic">
                           <div class="comic-img">
-                              <a href="#"><img src="<?=SITEURL;?>images/content/final-2-psk.jpg" class="img-responsive" /></a>
+                              <a href="<?=SITEURL;?>images/content/final-2-psk.jpg" class="fancybox" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="<?=SITEURL;?>images/content/final-2-psk.jpg" class="img-responsive" /></a>
                           </div>
                           <div class="comic-content">
                               <h2 class="comic-title"><a href="#">Neng Tarifnya Berapa ? </a></h2>
@@ -310,7 +310,7 @@
                   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <div class="comic">
                           <div class="comic-img">
-                              <a href="#"><img src="<?=SITEURL;?>images/content/nunggu-jodoh.jpg" class="img-responsive" /></a>
+                              <a href="<?=SITEURL;?>images/content/nunggu-jodoh.jpg" class="fancybox" data-fancybox-group="gallery" title="Nunggu Jodoh"><img src="<?=SITEURL;?>images/content/nunggu-jodoh.jpg" class="img-responsive" /></a>
                           </div>
                           <div class="comic-content">
                               <h2 class="comic-title"><a href="#">Nunggu Jodoh</a></h2>
@@ -325,7 +325,7 @@
                   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <div class="comic">
                           <div class="comic-img">
-                              <a href="#"><img src="<?=SITEURL;?>images/content/komik-strip-lucu-3.png" class="img-responsive" /></a>
+                              <a href="<?=SITEURL;?>images/content/komik-strip-lucu-3.png" class="fancybox" data-fancybox-group="gallery" title="Jalan dong Lu!"><img src="<?=SITEURL;?>images/content/komik-strip-lucu-3.png" class="img-responsive" /></a>
                           </div>
                           <div class="comic-content">
                               <h2 class="comic-title"><a href="#">Jalan dong Lu!</a></h2>
@@ -340,7 +340,7 @@
                   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <div class="comic">
                           <div class="comic-img">
-                              <a href="#"><img src="<?=SITEURL;?>images/content/razia.png" class="img-responsive" /></a>
+                              <a href="<?=SITEURL;?>images/content/razia.png" class="fancybox" data-fancybox-group="gallery" title="Razia *sensor*"><img src="<?=SITEURL;?>images/content/razia.png" class="img-responsive" /></a>
                           </div>
                           <div class="comic-content">
                               <h2 class="comic-title"><a href="#">Razia *sensor*</a></h2>
